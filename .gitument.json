@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "extractDirPattern": "{filename}_extracted",
+  "autoCleanup": true,
+  "supportedTypes": [
+    "hwpx",
+    "docx"
+  ]
+}
